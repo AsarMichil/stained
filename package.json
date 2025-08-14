@@ -59,7 +59,9 @@
 		"svelte"
 	],
 	"dependencies": {
+		"@anthropic-ai/claude-code": "^1.0.73",
 		"@types/d3": "^7.4.3",
-		"d3": "^7.9.0"
+		"d3": "^7.9.0",
+		"melt": "^0.38.0"
 	}
 }
